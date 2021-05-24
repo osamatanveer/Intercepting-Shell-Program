@@ -1,0 +1,1 @@
+A shell program that takes commands from the user and executes them using Linux system calls. This program runs concurrently executing processes to execute instructions. For pipe instructions, POSIX pipes are used.
